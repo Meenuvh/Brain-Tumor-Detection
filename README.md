@@ -14,7 +14,6 @@ A curated dataset with labeled images (tumor / no tumor) was used. Images were r
 ## Training Details
 - Optimizer: Adam
 - Loss: Binary Crossentropy
-- Accuracy Achieved: [Insert Your Accuracy]
 - Epochs: 5
 
 ## How to Use
