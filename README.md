@@ -22,8 +22,9 @@ A curated dataset with labeled images (tumor / no tumor) was used. Images were r
 2. Use `predict_brain_tumor()` function to test any MRI image
 
 ## Results
-- Validation Accuracy: [Insert number]
 - Sample Prediction Output:
-  - `test1.jpg → Tumor Detected`
-  - `test2.jpg → No Tumor`
+  - `yes_1.jpg → Tumor Detected`
+  - `yes_2.jpg → No Tumor`
+  - 'validation accuracy=0.5'
+    
 
